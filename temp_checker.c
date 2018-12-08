@@ -670,6 +670,7 @@ typedef struct checkernode {
 
 } node;
 
+
 /*
 void initroot(node * root){
 
